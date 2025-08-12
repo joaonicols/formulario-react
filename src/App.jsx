@@ -4,11 +4,12 @@ import Tarefas from "./components/Tarefas"
 import Timer from "./components/Timer"
 import Calculadora from "./components/Calculadora"
 import Lista_Desejos from "./components/Lista_Desejos"
+import PaginaBootstrap from "./components/PaginaBootstrap"
 function App() {
 
   return (
     <div>
-      <Lista_Desejos />
+      <PaginaBootstrap />
     </div>
   )
 }
